@@ -1,0 +1,31 @@
+{
+  "text": "Tips help during your delivery\nWelcome to Teleprompta!\n\nHighlight text and apply a style preset from the toolbar above\n\nBody.",
+  "tags": {
+    "body": [
+      [
+        "1.0",
+        "2.0"
+      ],
+      [
+        "3.0",
+        "4.0"
+      ],
+      [
+        "6.5",
+        "7.0"
+      ]
+    ],
+    "style2": [
+      [
+        "2.0",
+        "3.0"
+      ]
+    ],
+    "style3": [
+      [
+        "4.0",
+        "6.5"
+      ]
+    ]
+  }
+}

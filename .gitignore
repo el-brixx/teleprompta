@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Distribution / packaging
+build/
+dist/
+*.spec
+
+# Settings and environment
+*.env
+*.DS_Store
+*.log
+
+# Java
+OpenJDK-24/
